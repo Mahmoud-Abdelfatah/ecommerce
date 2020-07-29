@@ -1,0 +1,32 @@
+<?php
+$lang = array(
+	'title' => "Handover",
+    'language'=>"AR",
+    'home'=>"HOME",
+    'about us' => "ABOUT US",
+    'contact us'=> "CONTACT US",
+    'category' => "CATEGORY",
+    'login' => "LOGIN",
+    'sign up'=>"SIGNUP",   
+    'last added items' =>'Last Added Items',
+    'dir'=>'ltr',
+    'add to cart' =>" Add to Cart" ,
+    'float'=>"left",
+    'your cart' => "YOUR CART",
+    'Photo'=> "Photo",
+    'Name'=>"Name",
+    'Price'=>"Price",
+    'Quantity'=>"Quantity",
+    'Subtotal'=>"Subtotal", 
+    'total'=>"Total",
+    'Shopping cart empty'=>"Shopping cart empty",
+    'need to login'=>"You need to <a href='login.php'>Login</a> to checkout.",
+    'address'=>"Address",
+    'phone'=>"Phone",
+    'Shipping Address'=>"Shipping Address",
+    'Check Out'=>'Check Out',
+    'Back'=>'Go Back to Cart',
+    'city'=>'City',
+    'dlivery'=>'Shipping'
+	 );
+?>
